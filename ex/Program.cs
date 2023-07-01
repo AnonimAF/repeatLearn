@@ -3,6 +3,4 @@
 // dotnet new console - создает новый проект
 // dotnet run - запускает проект
 
-// Через Conosle мы обращаемся к системному терминалу
-
 Console.Write("Hello Artem Igorevich");
